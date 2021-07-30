@@ -1,0 +1,7 @@
+﻿"Top values of pid.keyword","Unique count of cpu.keyword","Unique count of user.keyword","Unique count of mem.keyword","Unique count of command.keyword"
+1160,2,1,1,1
+6408,2,1,2,1
+678,2,1,2,1
+8603,2,1,2,1
+8606,2,1,1,1
+Other,12,7,21,232
