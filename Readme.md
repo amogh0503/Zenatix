@@ -10,3 +10,7 @@
 3. Screenshot of the dashboard in Kibana.
 4. Screenshot of Kibana Lens Visualization
 5. CSV export of dashboard in Kibana.
+
+## Staring ElasticSearch and Kibana
+1. sudo systemctl start  elasticsearch
+2. sudo systemctl start kibana
